@@ -1,0 +1,8 @@
+﻿  Array.cpp
+  CheckBook.cpp
+  MinBalCheckBook.cpp
+  useMinBalCheckBook.cpp
+H:\C++ Classes and Data Structures\Chapter6\ch6ex1\useMinBalCheckBook.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+H:\C++ Classes and Data Structures\Chapter6\ch6ex1\CheckBook.h(88): warning C4715: “CheckBook<float>::err”: 不是所有的控件路径都返回值
+  ch6ex1.vcxproj -> H:\C++ Classes and Data Structures\Chapter6\ch6ex1\x64\Debug\ch6ex1.exe

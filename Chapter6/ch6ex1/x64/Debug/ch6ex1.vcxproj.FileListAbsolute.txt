@@ -1,0 +1,2 @@
+H:\C++ Classes and Data Structures\Chapter6\ch6ex1\x64\Debug\ch6ex1.exe
+H:\C++ Classes and Data Structures\Chapter6\ch6ex1\x64\Debug\ch6ex1.pdb
