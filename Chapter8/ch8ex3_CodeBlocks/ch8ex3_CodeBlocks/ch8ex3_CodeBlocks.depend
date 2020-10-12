@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573825993 source:h:\c++ classes and data structures\chapter8\ch8ex3_codeblocks\ch8ex3_codeblocks\queue.cpp
+
+1574235401 source:h:\c++ classes and data structures\chapter8\ch8ex3_codeblocks\ch8ex3_codeblocks\usequeue.cpp
+	<iostream>
+	"queue.h"
+
+1574235445 h:\c++ classes and data structures\chapter8\ch8ex3_codeblocks\ch8ex3_codeblocks\queue.h
+
