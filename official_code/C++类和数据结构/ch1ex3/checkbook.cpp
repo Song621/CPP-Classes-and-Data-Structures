@@ -1,0 +1,1 @@
+// checkbook.cpp -- contains the function definitions for the Checkbook class#include "checkbook.h"bool Checkbook::writeCheck( float amount ){	if ( amount > balance )		return false;	balance -= amount;	lastCheck = amount;	return true;}

@@ -1,0 +1,1 @@
+#include <iostream>using namespace std;int main( ){	int num[ 5 ];	int sum = 0;		for ( int i = 0; i < 5; i++ ) {		cout << "Enter element " << i << ": ";		cin >> num[ i ];		}	for ( int i = 0; i < 5; i++ ) 		sum = sum + num[ i ] ;	cout << "The resulting sum is: " << sum << endl;	return 0;}
