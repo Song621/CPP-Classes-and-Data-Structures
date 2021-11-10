@@ -1,0 +1,3 @@
+﻿  ch12ex1.cpp
+H:\C++ Classes and Data Structures\Chapter12\ch12ex1\Array.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ch12ex1.vcxproj -> H:\C++ Classes and Data Structures\Chapter12\ch12ex1\x64\Debug\ch12ex1.exe

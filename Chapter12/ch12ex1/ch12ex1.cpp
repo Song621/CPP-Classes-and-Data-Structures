@@ -2,10 +2,45 @@
 //
 
 #include <iostream>
+#include "PriorityQueue.h"
+
+using namespace std;
 
 int main()
 {
     std::cout << "Hello World!\n";
+
+    Array<int> a(7);
+    for (int i = 0; i < 7; i++)
+    {
+        a[i] = i;
+    }
+    PriorityQueue<int> que(a);
+
+    while (!que.isEmpty())
+    {
+        int removed;
+        que.dequeue(removed);
+        cout << removed << endl;
+    }
+
+    que.enqueue(14);
+    que.enqueue(43);
+    que.enqueue(22);
+    que.enqueue(99);
+    que.enqueue(78);
+    que.enqueue(85);
+    que.enqueue(45);
+    que.enqueue(12);
+
+    while (!que.isEmpty())
+    {
+        int removed;
+        que.dequeue(removed);
+        cout << removed << endl;
+    }
+
+    return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
